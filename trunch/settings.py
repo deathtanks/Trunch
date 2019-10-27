@@ -27,6 +27,10 @@ DEBUG = True
 
 ALLOWED_HOSTS = []
 
+STATICFILES_DIRS = [
+    "/home/antonlypka/PycharmProjects/Trunch/templates/static",
+]
+
 
 # Application definition
 
