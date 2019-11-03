@@ -1,0 +1,13 @@
+.nav_layout{
+    display:flex;
+    flex-direction: row;
+    list-style: none;
+    justify-content: center;
+}
+.nav_layout img{
+    width: 50px
+}
+.nav_layout li{
+    width: 60px;
+    height: 60px;
+}
